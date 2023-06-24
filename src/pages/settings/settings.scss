@@ -1,0 +1,14 @@
+.settings-wrapper {
+  max-width: 60vw;
+  margin: 0 auto;
+  text-align: center;
+  padding: 1vw;
+
+  .settings-buttons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 2vw 0vw;
+    gap: 10px;
+  }
+}

@@ -1,0 +1,29 @@
+.game-wrapper {
+  max-width: 60vw;
+  margin: 0 auto;
+
+  .ai-wrapper {
+    border: 1px solid #4970b5;
+    border-radius: 8px;
+    padding: 1vw;
+  }
+
+  .player-wrapper {
+    border: 1px solid #4970b5;
+    border-radius: 8px;
+    padding: 1vw;
+  }
+
+  .quantity-wrapper {
+    border: 1px solid #4970b5;
+    margin: 1vw 0vw;
+    border-radius: 8px;
+    padding: 1vw;
+  }
+
+  .controlls {
+    display: flex;
+    gap: 10px;
+    margin: 1vw 0vw;
+  }
+}

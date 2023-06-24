@@ -1,0 +1,15 @@
+.field-wrapper {
+  display: flex;
+  justify-content: space-between;
+
+  .field-items {
+    display: flex;
+    gap: 10px;
+    max-width: 90%;
+    flex-wrap: wrap;
+
+
+  }
+
+
+}
